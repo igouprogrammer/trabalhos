@@ -1,0 +1,11 @@
+name: Backend
+author: Igorgp
+version: 1.0
+main: br.com.igorst.backend.Main
+description: 'Opa'
+commands:
+    ban:
+    tempban:
+    kick:
+    unban:
+    
